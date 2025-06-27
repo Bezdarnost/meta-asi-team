@@ -16,7 +16,7 @@ List of the meta Artificial Super Intelligence team members
 </details>
 
 <details>
-<summary>Trapit Bansal</summary>
+<summary>Xiaohua Zhai</summary>
 [Website](https://sites.google.com/view/xzhai)
 [Google Scholar](https://scholar.google.com/citations?user=8gruapYAAAAJ&hl=en)
 [LinkedIn](https://www.linkedin.com/in/xiaohua-zhai-4a0a37a1/)

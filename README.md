@@ -3,9 +3,9 @@ List of the meta Artificial Super Intelligence team members
 
 <details>
 <summary>Lucas Beyer</summary>
-[Website](https://lucasb.eyer.be/)
-[Google Scholar](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=fr)
-[LinkedIn](https://www.linkedin.com/in/lucas-beyer-7148709b/?originalSubdomain=ch)
+- [Website](https://lucasb.eyer.be/)
+- [Google Scholar](https://scholar.google.com/citations?user=p2gwhK4AAAAJ&hl=fr)
+- [LinkedIn](https://www.linkedin.com/in/lucas-beyer-7148709b/?originalSubdomain=ch)
 </details>
 
 <details>

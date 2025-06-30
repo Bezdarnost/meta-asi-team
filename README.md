@@ -65,7 +65,7 @@ List of the meta Artificial Super Intelligence team members
 </details>
 
 <details>
-<summary>Whos next?</summary>
+<summary>Hongyu Ren</summary>
   
 - [Website](http://hyren.me/)
 - [Google Scholar](https://scholar.google.com/citations?user=cbuy0ocAAAAJ&hl=zh-CN)
